@@ -1,4 +1,5 @@
-[![MasterHead](https://www.veryicon.com/images/miscellaneous/placeholder-image/placeholder-image-18.png)]()
+[![MasterHead](https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350)]()
+
 <h1 align="center">Hi 👋, I'm SHAHANAS SHAFI P T</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
