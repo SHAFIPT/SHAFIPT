@@ -1,42 +1,79 @@
 [![MasterHead](https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350)]()
 
 <h1 align="center">Hi 👋, I'm SHAHANAS SHAFI P T</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN & SQL Stack | Cloud Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafipt&label=Profile%20views&color=0e75b6&style=flat" alt="shafipt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
+- 🔭 **Currently working on:** [Scalable web applications using MERN stack](https://github.com/SHAFIPT/Gamzy2.git)
+- 🌱 **Learning:** DSA | AWS for better cloud deployment & scaling
+- 👯 **Looking to collaborate on:** Open-source full-stack projects, modern web tech, API integrations
+- 🤝 **Seeking help with:** Advanced features like real-time data streaming, microservices & performance optimization
+- 💬 **Ask me about:** Full-stack dev, JavaScript frameworks, Node.js APIs, MongoDB schema design, 3rd-party integrations
+- 📫 **Reach me at:** `shafipt077@gmail.com`
+- ⚡ **Fun Fact:** I can solve coding challenges faster than I make coffee! ☕
 
-- 🔭 I’m currently working on [Building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js) for e-commerce and dynamic content platforms.](https://github.com/SHAFIPT/Gamzy2.git)
+---
 
-- 🌱 I’m currently learning **DSA,AWS for better cloud deployment and application scaling.**
-
-- 👯 I’m looking to collaborate on **Open-source projects related to full-stack development, particularly those involving modern web technologies like React, Node.js, or API integrations.**
-
-- 🤝 I’m looking for help with **Implementing advanced features in web apps such as real-time data streaming, microservices, and performance optimization.**
-
-- 💬 Ask me about **Full-stack development, JavaScript frameworks, Node.js APIs, MongoDB schema design, and integrating third-party services**
-
-- 📫 How to reach me **shafipt077@gmail.com**
-
-- 📄 Know about my experiences [With one of experience in full-stack development, I specialize in creating responsive, scalable, and secure applications using the MERN stack, version control with GitHub, and deployment using modern cloud platforms.](With one of experience in full-stack development, I specialize in creating responsive, scalable, and secure applications using the MERN stack, version control with GitHub, and deployment using modern cloud platforms.)
-
-- ⚡ Fun fact **I can solve coding challenges faster than I can make a cup of coffee!**
-
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/shahanas shafi pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahanas shafi pt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahanas-shafi-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahanas shafi pt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shafi124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafi124" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafipt&show_icons=true&locale=en&layout=compact" alt="shafipt" /></p>
+## 💻 Tech Stack:
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafipt&show_icons=true&locale=en" alt="shafipt" /></p>
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafipt&" alt="shafipt" /></p>
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafipt&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafipt&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafipt&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 **Solved 100+ LeetCode Challenges**
+- 📈 **Contributed to Open Source Projects**
+- 🚀 **Deployed Scalable Web Applications**
+- 🏅 **Built E-Commerce & Dynamic Content Platforms**
+
+---
+
+### **🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House**
+
+---
+
+🔗 **Let's build something awesome together!** 🚀🔥  
