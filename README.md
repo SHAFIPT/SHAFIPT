@@ -1,79 +1,174 @@
-[![MasterHead](https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350)]()
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm SHAHANAS SHAFI P T</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN & SQL Stack | Cloud Enthusiast</h3>
+```
+███████╗██╗  ██╗ █████╗ ███████╗██╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██║
+███████╗███████║███████║█████╗  ██║
+╚════██║██╔══██║██╔══██║██╔══╝  ██║
+███████║██║  ██║██║  ██║██║     ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### SHAHANAS SHAFI PT
+**Full Stack Developer · AI Integration · MERN Stack**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafipt&label=Profile%20views&color=0e75b6&style=flat" alt="shafipt" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahanas-shafi-pt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHAFIPT)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shafi124)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafipt077@gmail.com)
 
-## 🚀 About Me
-- 🔭 **Currently working on:** [Scalable web applications using MERN stack](https://github.com/SHAFIPT/Gamzy2.git)
-- 🌱 **Learning:** DSA | AWS for better cloud deployment & scaling
-- 👯 **Looking to collaborate on:** Open-source full-stack projects, modern web tech, API integrations
-- 🤝 **Seeking help with:** Advanced features like real-time data streaming, microservices & performance optimization
-- 💬 **Ask me about:** Full-stack dev, JavaScript frameworks, Node.js APIs, MongoDB schema design, 3rd-party integrations
-- 📫 **Reach me at:** `shafipt077@gmail.com`
-- ⚡ **Fun Fact:** I can solve coding challenges faster than I make coffee! ☕
-
----
-
-## 🔗 Connect with Me:
-<p align="left">
-<a href="https://linkedin.com/in/shahanas-shafi-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahanas shafi pt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shafi124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafi124" height="30" width="40" /></a>
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack:
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## About
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+MERN Stack Developer with **2+ years of experience** building production-grade full-stack applications. I specialize in clean architecture, RESTful API design, and integrating AI capabilities (Claude, OpenAI, Gemini) into real-world products.
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Currently at **Code Neptune Technologies, Chennai** — shipping an online art marketplace with real-time auction bidding, and a buy-and-sell marketplace platform, while architecting intelligent workflows with LLM APIs.
+
+```
+💼  Building @ Code Neptune Technologies (Sep 2025 – Present)
+🤖  AI Integration: Claude API · OpenAI · Gemini
+🧠  Learning: DSA · AWS · Microservices · System Design
+⚡  100+ LeetCode problems solved
+📍  Chennai, India
+```
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafipt&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafipt&theme=dark" alt="GitHub Streak">
-</p>
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafipt&layout=compact&theme=dark" alt="Top Languages">
-</p>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**AI & LLM**
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Auth & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Solved 100+ LeetCode Challenges**
-- 📈 **Contributed to Open Source Projects**
-- 🚀 **Deployed Scalable Web Applications**
-- 🏅 **Built E-Commerce & Dynamic Content Platforms**
+## Featured Projects
+
+### 🔗 Rate-Limited URL Shortener
+> Full-stack URL shortener with per-user and global rate limiting via Redis.
+
+**Stack:** React · TypeScript · Node.js · Redis · Docker · JWT · MongoDB  
+**Highlights:** Clean architecture with SOLID principles · TTL-based URL expiry via MongoDB indexing · JWT access & refresh tokens · Dockerized backend on Render + Vercel frontend
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
-### **🚀 "Code is like humor. When you have to explain it, it’s bad." – Cory House**
+### 📚 BookVault — Book Management System
+> Role-based book management platform with Admin, Author, and Retail user flows.
+
+**Stack:** React · Node.js · MongoDB · TypeScript · JWT · Docker  
+**Highlights:** RBAC with refresh tokens · Paginated RESTful APIs · Nodemailer email notifications for purchase alerts · Full Docker-based deployment
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
-🔗 **Let's build something awesome together!** 🚀🔥  
+### ✅ Taskify — Real-Time Task Manager
+> Task management app with real-time updates, WebSocket sync, and stats visualization.
+
+**Stack:** React · Node.js · MongoDB · Socket.IO · Chart.js · JWT  
+**Highlights:** Real-time task updates via Socket.IO · Task analytics with Chart.js · Secure JWT auth · Full CRUD REST API
+
+[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafipt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafipt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafipt&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" />
+
+</div>
+
+---
+
+## Work Experience
+
+**Software Developer** — *Code Neptune Technologies, Chennai*  
+`Sep 2025 – Present · Full-Time`
+
+- Built a **Cashify-like buy-and-sell marketplace** with product listings, order workflows, authentication, and admin management
+- Developed **Sevi**, an online art marketplace with real-time auction bidding (Socket.IO), Buy Now flows, and secure payment workflows
+- Integrated **Claude, OpenAI, and Gemini APIs** for content generation, automation, and intelligent business workflows
+- Designed RESTful APIs, JWT auth, RBAC systems applying **Clean Architecture** and SOLID principles with Next.js, NestJS, and MongoDB
+- Delivered pixel-perfect responsive UIs from Figma designs using React.js and Tailwind CSS in an Agile team
+
+---
+
+## Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| MERN Stack Development | Brototype, Calicut | 2024 – 2025 |
+| Bachelor of Computer Applications (BCA) | Safa College, University of Calicut | 2020 – 2023 |
+
+---
+
+## Architecture Principles I Follow
+
+```
+Clean Architecture  ·  SOLID Principles  ·  Repository Pattern  ·  MVC
+JWT + RBAC Security  ·  API-First Design  ·  Docker-first Deployment
+Real-time via WebSockets  ·  Agile / Scrum Workflow
+```
+
+---
+
+<div align="center">
+
+**Open to collaborating on full-stack projects, AI-powered applications, and open-source work.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahanas-shafi-pt)
+[![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafipt077@gmail.com)
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
